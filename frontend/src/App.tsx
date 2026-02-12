@@ -30,8 +30,8 @@ function App() {
     <div className="container">
       <header className="header">
         <Server className="icon-main" size={48} />
-        <h1>DevOps Assessment</h1>
-        <p className="subtitle">Full-stack Hello World Application</p>
+        <h1>DevOps Assessment Auto Deploy 1.0</h1>
+        <p className="subtitle">Full-stack Hello World Application AutoDeploy1.0</p>
       </header>
 
       <main className="main-card">
